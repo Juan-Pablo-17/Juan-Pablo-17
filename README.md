@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Juan-Pablo-17
+- 👀 I’m interested in physics, data science
+- 🌱 I’m physics student at the Universidad del Quindío- Colombia
+- 💞️ I’m looking to collaborate on physics and data science proyects
+- 📫 How to reach me: juanp.cobot@uqvirtual.edu.co
